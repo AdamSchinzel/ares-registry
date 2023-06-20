@@ -1,5 +1,5 @@
 {
-  "name": "@AdamSchinzel/ares-registry",
+  "name": "@adamschinzel/ares-registry",
   "version": "1.0.1",
   "description": "Node module for interacting with the ARES Registry",
   "main": "lib/index.js",
@@ -30,7 +30,7 @@
   "author": "Adam Schinzel",
   "license": "MIT",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@AdamSchinzel"
+    "registry": "https://npm.pkg.github.com/@adamschinzel"
   },
   "bugs": {
     "url": "https://github.com/AdamSchinzel/ares-registry/issues"
