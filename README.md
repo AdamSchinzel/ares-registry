@@ -20,7 +20,7 @@ pnpm i @adamschinzel/ares-registry
 Then use it in your project (works only on server side):
 
 ```ts
-import getCompanyData from 'ares-registry';
+import getCompanyData from '@adamschinzel/ares-registry';
 
 const data = getCompanyData('63473291');
 ```
