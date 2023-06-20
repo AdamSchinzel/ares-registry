@@ -8,13 +8,13 @@ Install the package with your favorite package manager:
 
 ```bash
 // with npm
-npm i ares-registry
+npm i @adamschinzel/ares-registry
 
 // with yarn
-yarn add ares-registry
+yarn add @adamschinzel/ares-registry
 
 // with pnpm
-pnpm i ares-registry
+pnpm i @adamschinzel/ares-registry
 ```
 
 Then use it in your project (works only on server side):
