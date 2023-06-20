@@ -4,13 +4,20 @@ Node module for interacting with [the ARES Registry](https://wwwinfo.mfcr.cz/are
 
 ## Install and use the package
 
-To use the package in a project:
+Install the package with your favorite package manager:
 
 ```bash
-ares-registry
+// with npm
+npm i ares-registry
+
+// with yarn
+yarn add ares-registry
+
+// with pnpm
+pnpm i ares-registry
 ```
 
-and then in a file:
+Then use it in your project (works only on server side):
 
 ```ts
 import getCompanyData from 'ares-registry';
