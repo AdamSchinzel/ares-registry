@@ -1,5 +1,5 @@
 {
-  "name": "ares-registry",
+  "name": "@AdamSchinzel/ares-registry",
   "version": "1.0.1",
   "description": "Node module for interacting with the ARES Registry",
   "main": "lib/index.js",
