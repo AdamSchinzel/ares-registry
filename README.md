@@ -1,6 +1,6 @@
 # ares-registry
 
-Library for interacting with [the ARES Registry](https://wwwinfo.mfcr.cz/ares/ares_es.html.cz).
+Library for interacting with [the ARES registry](https://wwwinfo.mfcr.cz/ares/ares_es.html.cz).
 
 ## Install and use the package
 
